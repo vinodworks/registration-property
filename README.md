@@ -1,0 +1,2 @@
+# registration-property
+property registration
